@@ -1,0 +1,362 @@
+["INFO" - 8:25:50 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 8:25:50 AM] Extension Version: 9.10.3.
+["INFO" - 8:25:52 AM] Formatting vscode-userdata:/c%3A/Users/Dell/AppData/Roaming/Code/User/settings.json
+["INFO" - 8:25:52 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:25:52 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:25:52 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\AppData\\Roaming\\Code\\User\\settings.json",
+  "parser": "json"
+}
+["INFO" - 8:25:52 AM] Formatting completed in 38ms.
+["INFO" - 8:25:54 AM] Formatting vscode-userdata:/c%3A/Users/Dell/AppData/Roaming/Code/User/settings.json
+["INFO" - 8:25:54 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:25:54 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:25:54 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\AppData\\Roaming\\Code\\User\\settings.json",
+  "parser": "json"
+}
+["INFO" - 8:25:54 AM] Formatting completed in 13ms.
+["INFO" - 8:26:48 AM] Formatting file:///c%3A/Users/Dell/Desktop/JSA016/Day4/index.html
+["INFO" - 8:26:48 AM] Using ignore file (if present) at c:\Users\Dell\Desktop\JSA016\.prettierignore
+["INFO" - 8:26:48 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:26:48 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:26:48 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\Desktop\\JSA016\\Day4\\index.html",
+  "parser": "html"
+}
+["INFO" - 8:26:48 AM] Formatting completed in 75ms.
+["INFO" - 8:27:12 AM] Formatting file:///c%3A/Users/Dell/Desktop/JSA016/Day4/index.html
+["INFO" - 8:27:12 AM] Using ignore file (if present) at c:\Users\Dell\Desktop\JSA016\.prettierignore
+["INFO" - 8:27:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:27:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:27:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\Desktop\\JSA016\\Day4\\index.html",
+  "parser": "html"
+}
+["INFO" - 8:27:12 AM] Formatting completed in 9ms.
+["INFO" - 8:27:52 AM] Formatting file:///c%3A/Users/Dell/Desktop/JSA016/Day4/index.html
+["INFO" - 8:27:52 AM] Using ignore file (if present) at c:\Users\Dell\Desktop\JSA016\.prettierignore
+["INFO" - 8:27:52 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:27:52 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:27:52 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\Desktop\\JSA016\\Day4\\index.html",
+  "parser": "html"
+}
+["INFO" - 8:27:52 AM] Formatting completed in 14ms.
+["INFO" - 8:28:10 AM] Formatting file:///c%3A/Users/Dell/Desktop/JSA016/Day4/index.html
+["INFO" - 8:28:10 AM] Using ignore file (if present) at c:\Users\Dell\Desktop\JSA016\.prettierignore
+["INFO" - 8:28:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:28:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:28:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\Desktop\\JSA016\\Day4\\index.html",
+  "parser": "html"
+}
+["INFO" - 8:28:10 AM] Formatting completed in 18ms.
+["INFO" - 8:28:14 AM] Formatting file:///c%3A/Users/Dell/Desktop/JSA016/Day4/index.html
+["INFO" - 8:28:14 AM] Using ignore file (if present) at c:\Users\Dell\Desktop\JSA016\.prettierignore
+["INFO" - 8:28:14 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:28:14 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:28:14 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\Desktop\\JSA016\\Day4\\index.html",
+  "parser": "html"
+}
+["INFO" - 8:28:14 AM] Formatting completed in 14ms.
+["INFO" - 8:29:26 AM] Formatting file:///c%3A/Users/Dell/Desktop/JSA016/Day4/index.html
+["INFO" - 8:29:26 AM] Using ignore file (if present) at c:\Users\Dell\Desktop\JSA016\.prettierignore
+["INFO" - 8:29:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:29:26 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:29:26 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\Desktop\\JSA016\\Day4\\index.html",
+  "parser": "html"
+}
+["INFO" - 8:29:26 AM] Formatting completed in 58ms.
+["INFO" - 8:30:10 AM] Formatting file:///c%3A/Users/Dell/Desktop/JSA016/Day4/index.html
+["INFO" - 8:30:10 AM] Using ignore file (if present) at c:\Users\Dell\Desktop\JSA016\.prettierignore
+["INFO" - 8:30:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:30:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:30:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\Desktop\\JSA016\\Day4\\index.html",
+  "parser": "html"
+}
+["INFO" - 8:30:10 AM] Formatting completed in 16ms.
+["INFO" - 8:30:24 AM] Formatting file:///c%3A/Users/Dell/Desktop/JSA016/Day4/index.html
+["INFO" - 8:30:24 AM] Using ignore file (if present) at c:\Users\Dell\Desktop\JSA016\.prettierignore
+["INFO" - 8:30:24 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:30:24 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:30:24 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\Desktop\\JSA016\\Day4\\index.html",
+  "parser": "html"
+}
+["INFO" - 8:30:24 AM] Formatting completed in 20ms.
+["INFO" - 8:34:37 AM] Formatting vscode-userdata:/c%3A/Users/Dell/AppData/Roaming/Code/User/settings.json
+["INFO" - 8:34:37 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:34:37 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:34:37 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\Users\\Dell\\AppData\\Roaming\\Code\\User\\settings.json",
+  "parser": "json"
+}
+["INFO" - 8:34:37 AM] Formatting completed in 13ms.
