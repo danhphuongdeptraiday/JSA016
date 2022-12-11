@@ -5,13 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <style>
+      .clockContainer {
+        width: 400px;
+        height: 150px;
+        background-color: bisque;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    </style>
   </head>
   <body>
     <div class="container">
+      <input id="kindOfStorage" type="text" />
       <input id="username" type="text" />
       <input id="password" type="text" />
-      <button>Add</button>
+      <button id="btn">Add</button>
     </div>
+    <!-- <button>Pause</button>
+    <button>Continue</button>
+    <div class="clockContainer">
+      <h1>
+        <span id="hours">00</span>: <span id="minute">00</span>:
+        <span id="second">00</span>
+      </h1>
+    </div> -->
 
     <script src="app.js"></script>
   </body>
